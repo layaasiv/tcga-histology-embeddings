@@ -12,7 +12,6 @@ dependencies:
   - tifffile
   - pytorch
   - torchvision
-  - pip
   - pip:
       - timm
       - tiler
